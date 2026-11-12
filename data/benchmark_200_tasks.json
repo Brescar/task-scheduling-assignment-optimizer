@@ -1,0 +1,1002 @@
+﻿[
+    {
+        "taskId":  1,
+        "skillLevel":  2,
+        "estimation":  3
+    },
+    {
+        "taskId":  2,
+        "skillLevel":  3,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  3,
+        "skillLevel":  1,
+        "estimation":  6
+    },
+    {
+        "taskId":  4,
+        "skillLevel":  2,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  5,
+        "skillLevel":  3,
+        "estimation":  9
+    },
+    {
+        "taskId":  6,
+        "skillLevel":  1,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  7,
+        "skillLevel":  2,
+        "estimation":  12
+    },
+    {
+        "taskId":  8,
+        "skillLevel":  3,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  9,
+        "skillLevel":  1,
+        "estimation":  3
+    },
+    {
+        "taskId":  10,
+        "skillLevel":  2,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  11,
+        "skillLevel":  3,
+        "estimation":  6
+    },
+    {
+        "taskId":  12,
+        "skillLevel":  1,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  13,
+        "skillLevel":  2,
+        "estimation":  9
+    },
+    {
+        "taskId":  14,
+        "skillLevel":  3,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  15,
+        "skillLevel":  1,
+        "estimation":  12
+    },
+    {
+        "taskId":  16,
+        "skillLevel":  2,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  17,
+        "skillLevel":  3,
+        "estimation":  3
+    },
+    {
+        "taskId":  18,
+        "skillLevel":  1,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  19,
+        "skillLevel":  2,
+        "estimation":  6
+    },
+    {
+        "taskId":  20,
+        "skillLevel":  3,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  21,
+        "skillLevel":  1,
+        "estimation":  9
+    },
+    {
+        "taskId":  22,
+        "skillLevel":  2,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  23,
+        "skillLevel":  3,
+        "estimation":  12
+    },
+    {
+        "taskId":  24,
+        "skillLevel":  1,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  25,
+        "skillLevel":  2,
+        "estimation":  3
+    },
+    {
+        "taskId":  26,
+        "skillLevel":  3,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  27,
+        "skillLevel":  1,
+        "estimation":  6
+    },
+    {
+        "taskId":  28,
+        "skillLevel":  2,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  29,
+        "skillLevel":  3,
+        "estimation":  9
+    },
+    {
+        "taskId":  30,
+        "skillLevel":  1,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  31,
+        "skillLevel":  2,
+        "estimation":  12
+    },
+    {
+        "taskId":  32,
+        "skillLevel":  3,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  33,
+        "skillLevel":  1,
+        "estimation":  3
+    },
+    {
+        "taskId":  34,
+        "skillLevel":  2,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  35,
+        "skillLevel":  3,
+        "estimation":  6
+    },
+    {
+        "taskId":  36,
+        "skillLevel":  1,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  37,
+        "skillLevel":  2,
+        "estimation":  9
+    },
+    {
+        "taskId":  38,
+        "skillLevel":  3,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  39,
+        "skillLevel":  1,
+        "estimation":  12
+    },
+    {
+        "taskId":  40,
+        "skillLevel":  2,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  41,
+        "skillLevel":  3,
+        "estimation":  3
+    },
+    {
+        "taskId":  42,
+        "skillLevel":  1,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  43,
+        "skillLevel":  2,
+        "estimation":  6
+    },
+    {
+        "taskId":  44,
+        "skillLevel":  3,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  45,
+        "skillLevel":  1,
+        "estimation":  9
+    },
+    {
+        "taskId":  46,
+        "skillLevel":  2,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  47,
+        "skillLevel":  3,
+        "estimation":  12
+    },
+    {
+        "taskId":  48,
+        "skillLevel":  1,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  49,
+        "skillLevel":  2,
+        "estimation":  3
+    },
+    {
+        "taskId":  50,
+        "skillLevel":  3,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  51,
+        "skillLevel":  1,
+        "estimation":  6
+    },
+    {
+        "taskId":  52,
+        "skillLevel":  2,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  53,
+        "skillLevel":  3,
+        "estimation":  9
+    },
+    {
+        "taskId":  54,
+        "skillLevel":  1,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  55,
+        "skillLevel":  2,
+        "estimation":  12
+    },
+    {
+        "taskId":  56,
+        "skillLevel":  3,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  57,
+        "skillLevel":  1,
+        "estimation":  3
+    },
+    {
+        "taskId":  58,
+        "skillLevel":  2,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  59,
+        "skillLevel":  3,
+        "estimation":  6
+    },
+    {
+        "taskId":  60,
+        "skillLevel":  1,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  61,
+        "skillLevel":  2,
+        "estimation":  9
+    },
+    {
+        "taskId":  62,
+        "skillLevel":  3,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  63,
+        "skillLevel":  1,
+        "estimation":  12
+    },
+    {
+        "taskId":  64,
+        "skillLevel":  2,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  65,
+        "skillLevel":  3,
+        "estimation":  3
+    },
+    {
+        "taskId":  66,
+        "skillLevel":  1,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  67,
+        "skillLevel":  2,
+        "estimation":  6
+    },
+    {
+        "taskId":  68,
+        "skillLevel":  3,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  69,
+        "skillLevel":  1,
+        "estimation":  9
+    },
+    {
+        "taskId":  70,
+        "skillLevel":  2,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  71,
+        "skillLevel":  3,
+        "estimation":  12
+    },
+    {
+        "taskId":  72,
+        "skillLevel":  1,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  73,
+        "skillLevel":  2,
+        "estimation":  3
+    },
+    {
+        "taskId":  74,
+        "skillLevel":  3,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  75,
+        "skillLevel":  1,
+        "estimation":  6
+    },
+    {
+        "taskId":  76,
+        "skillLevel":  2,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  77,
+        "skillLevel":  3,
+        "estimation":  9
+    },
+    {
+        "taskId":  78,
+        "skillLevel":  1,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  79,
+        "skillLevel":  2,
+        "estimation":  12
+    },
+    {
+        "taskId":  80,
+        "skillLevel":  3,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  81,
+        "skillLevel":  1,
+        "estimation":  3
+    },
+    {
+        "taskId":  82,
+        "skillLevel":  2,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  83,
+        "skillLevel":  3,
+        "estimation":  6
+    },
+    {
+        "taskId":  84,
+        "skillLevel":  1,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  85,
+        "skillLevel":  2,
+        "estimation":  9
+    },
+    {
+        "taskId":  86,
+        "skillLevel":  3,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  87,
+        "skillLevel":  1,
+        "estimation":  12
+    },
+    {
+        "taskId":  88,
+        "skillLevel":  2,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  89,
+        "skillLevel":  3,
+        "estimation":  3
+    },
+    {
+        "taskId":  90,
+        "skillLevel":  1,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  91,
+        "skillLevel":  2,
+        "estimation":  6
+    },
+    {
+        "taskId":  92,
+        "skillLevel":  3,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  93,
+        "skillLevel":  1,
+        "estimation":  9
+    },
+    {
+        "taskId":  94,
+        "skillLevel":  2,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  95,
+        "skillLevel":  3,
+        "estimation":  12
+    },
+    {
+        "taskId":  96,
+        "skillLevel":  1,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  97,
+        "skillLevel":  2,
+        "estimation":  3
+    },
+    {
+        "taskId":  98,
+        "skillLevel":  3,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  99,
+        "skillLevel":  1,
+        "estimation":  6
+    },
+    {
+        "taskId":  100,
+        "skillLevel":  2,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  101,
+        "skillLevel":  3,
+        "estimation":  9
+    },
+    {
+        "taskId":  102,
+        "skillLevel":  1,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  103,
+        "skillLevel":  2,
+        "estimation":  12
+    },
+    {
+        "taskId":  104,
+        "skillLevel":  3,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  105,
+        "skillLevel":  1,
+        "estimation":  3
+    },
+    {
+        "taskId":  106,
+        "skillLevel":  2,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  107,
+        "skillLevel":  3,
+        "estimation":  6
+    },
+    {
+        "taskId":  108,
+        "skillLevel":  1,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  109,
+        "skillLevel":  2,
+        "estimation":  9
+    },
+    {
+        "taskId":  110,
+        "skillLevel":  3,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  111,
+        "skillLevel":  1,
+        "estimation":  12
+    },
+    {
+        "taskId":  112,
+        "skillLevel":  2,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  113,
+        "skillLevel":  3,
+        "estimation":  3
+    },
+    {
+        "taskId":  114,
+        "skillLevel":  1,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  115,
+        "skillLevel":  2,
+        "estimation":  6
+    },
+    {
+        "taskId":  116,
+        "skillLevel":  3,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  117,
+        "skillLevel":  1,
+        "estimation":  9
+    },
+    {
+        "taskId":  118,
+        "skillLevel":  2,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  119,
+        "skillLevel":  3,
+        "estimation":  12
+    },
+    {
+        "taskId":  120,
+        "skillLevel":  1,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  121,
+        "skillLevel":  2,
+        "estimation":  3
+    },
+    {
+        "taskId":  122,
+        "skillLevel":  3,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  123,
+        "skillLevel":  1,
+        "estimation":  6
+    },
+    {
+        "taskId":  124,
+        "skillLevel":  2,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  125,
+        "skillLevel":  3,
+        "estimation":  9
+    },
+    {
+        "taskId":  126,
+        "skillLevel":  1,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  127,
+        "skillLevel":  2,
+        "estimation":  12
+    },
+    {
+        "taskId":  128,
+        "skillLevel":  3,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  129,
+        "skillLevel":  1,
+        "estimation":  3
+    },
+    {
+        "taskId":  130,
+        "skillLevel":  2,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  131,
+        "skillLevel":  3,
+        "estimation":  6
+    },
+    {
+        "taskId":  132,
+        "skillLevel":  1,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  133,
+        "skillLevel":  2,
+        "estimation":  9
+    },
+    {
+        "taskId":  134,
+        "skillLevel":  3,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  135,
+        "skillLevel":  1,
+        "estimation":  12
+    },
+    {
+        "taskId":  136,
+        "skillLevel":  2,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  137,
+        "skillLevel":  3,
+        "estimation":  3
+    },
+    {
+        "taskId":  138,
+        "skillLevel":  1,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  139,
+        "skillLevel":  2,
+        "estimation":  6
+    },
+    {
+        "taskId":  140,
+        "skillLevel":  3,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  141,
+        "skillLevel":  1,
+        "estimation":  9
+    },
+    {
+        "taskId":  142,
+        "skillLevel":  2,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  143,
+        "skillLevel":  3,
+        "estimation":  12
+    },
+    {
+        "taskId":  144,
+        "skillLevel":  1,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  145,
+        "skillLevel":  2,
+        "estimation":  3
+    },
+    {
+        "taskId":  146,
+        "skillLevel":  3,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  147,
+        "skillLevel":  1,
+        "estimation":  6
+    },
+    {
+        "taskId":  148,
+        "skillLevel":  2,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  149,
+        "skillLevel":  3,
+        "estimation":  9
+    },
+    {
+        "taskId":  150,
+        "skillLevel":  1,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  151,
+        "skillLevel":  2,
+        "estimation":  12
+    },
+    {
+        "taskId":  152,
+        "skillLevel":  3,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  153,
+        "skillLevel":  1,
+        "estimation":  3
+    },
+    {
+        "taskId":  154,
+        "skillLevel":  2,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  155,
+        "skillLevel":  3,
+        "estimation":  6
+    },
+    {
+        "taskId":  156,
+        "skillLevel":  1,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  157,
+        "skillLevel":  2,
+        "estimation":  9
+    },
+    {
+        "taskId":  158,
+        "skillLevel":  3,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  159,
+        "skillLevel":  1,
+        "estimation":  12
+    },
+    {
+        "taskId":  160,
+        "skillLevel":  2,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  161,
+        "skillLevel":  3,
+        "estimation":  3
+    },
+    {
+        "taskId":  162,
+        "skillLevel":  1,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  163,
+        "skillLevel":  2,
+        "estimation":  6
+    },
+    {
+        "taskId":  164,
+        "skillLevel":  3,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  165,
+        "skillLevel":  1,
+        "estimation":  9
+    },
+    {
+        "taskId":  166,
+        "skillLevel":  2,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  167,
+        "skillLevel":  3,
+        "estimation":  12
+    },
+    {
+        "taskId":  168,
+        "skillLevel":  1,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  169,
+        "skillLevel":  2,
+        "estimation":  3
+    },
+    {
+        "taskId":  170,
+        "skillLevel":  3,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  171,
+        "skillLevel":  1,
+        "estimation":  6
+    },
+    {
+        "taskId":  172,
+        "skillLevel":  2,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  173,
+        "skillLevel":  3,
+        "estimation":  9
+    },
+    {
+        "taskId":  174,
+        "skillLevel":  1,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  175,
+        "skillLevel":  2,
+        "estimation":  12
+    },
+    {
+        "taskId":  176,
+        "skillLevel":  3,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  177,
+        "skillLevel":  1,
+        "estimation":  3
+    },
+    {
+        "taskId":  178,
+        "skillLevel":  2,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  179,
+        "skillLevel":  3,
+        "estimation":  6
+    },
+    {
+        "taskId":  180,
+        "skillLevel":  1,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  181,
+        "skillLevel":  2,
+        "estimation":  9
+    },
+    {
+        "taskId":  182,
+        "skillLevel":  3,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  183,
+        "skillLevel":  1,
+        "estimation":  12
+    },
+    {
+        "taskId":  184,
+        "skillLevel":  2,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  185,
+        "skillLevel":  3,
+        "estimation":  3
+    },
+    {
+        "taskId":  186,
+        "skillLevel":  1,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  187,
+        "skillLevel":  2,
+        "estimation":  6
+    },
+    {
+        "taskId":  188,
+        "skillLevel":  3,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  189,
+        "skillLevel":  1,
+        "estimation":  9
+    },
+    {
+        "taskId":  190,
+        "skillLevel":  2,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  191,
+        "skillLevel":  3,
+        "estimation":  12
+    },
+    {
+        "taskId":  192,
+        "skillLevel":  1,
+        "estimation":  1.5
+    },
+    {
+        "taskId":  193,
+        "skillLevel":  2,
+        "estimation":  3
+    },
+    {
+        "taskId":  194,
+        "skillLevel":  3,
+        "estimation":  4.5
+    },
+    {
+        "taskId":  195,
+        "skillLevel":  1,
+        "estimation":  6
+    },
+    {
+        "taskId":  196,
+        "skillLevel":  2,
+        "estimation":  7.5
+    },
+    {
+        "taskId":  197,
+        "skillLevel":  3,
+        "estimation":  9
+    },
+    {
+        "taskId":  198,
+        "skillLevel":  1,
+        "estimation":  10.5
+    },
+    {
+        "taskId":  199,
+        "skillLevel":  2,
+        "estimation":  12
+    },
+    {
+        "taskId":  200,
+        "skillLevel":  3,
+        "estimation":  1.5
+    }
+]

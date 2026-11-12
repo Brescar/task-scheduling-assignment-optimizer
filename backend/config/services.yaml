@@ -1,0 +1,21 @@
+parameters:
+
+services:
+    _defaults:
+        autowire: true
+        autoconfigure: true
+        bind:
+            string $projectDir: '%kernel.project_dir%'
+
+    _instanceof:
+        App\Domain\Contract\OptimizerInterface:
+            tags: ['app.optimizer']
+
+    App\:
+        resource: '../src/'
+        exclude:
+            - '../src/Domain/Model/'
+            - '../src/Kernel.php'
+
+    App\Infrastructure\Command\OptimizeCommand:
+        tags: ['console.command']

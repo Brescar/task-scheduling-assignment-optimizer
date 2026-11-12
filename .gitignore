@@ -1,0 +1,23 @@
+# Environments
+.env
+backend/.env
+backend/.env.local
+frontend/.env
+frontend/.env.local
+
+# Vendor & Dependencies
+backend/vendor/
+backend/var/
+frontend/node_modules/
+frontend/.nuxt/
+frontend/.output/
+frontend/dist/
+backend/.phpunit.cache/
+
+# OS & IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.log
+

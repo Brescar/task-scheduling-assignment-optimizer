@@ -1,0 +1,6 @@
+[
+  { "taskId": 1, "skillLevel": 1, "estimation": 2.0 },
+  { "taskId": 2, "skillLevel": 4, "estimation": 5.0 },
+  { "taskId": 3, "skillLevel": 5, "estimation": 3.0 }
+]
+
